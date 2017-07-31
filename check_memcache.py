@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 #  check_memcache.py
 #
-#  Copyright 2012 Silvio Knizek <sknizek@cyberport.de>
+#  Copyright 2012 Silvio Knizek <silvio.knizek@gmx.de>
 #
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
